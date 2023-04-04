@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://www.easypay-group.com
+baseURL: https://status.easypay-group.com
 
 # For features like Last modified, you
 # need to use a Git repository. If you
