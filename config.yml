@@ -164,7 +164,6 @@ params:
       category: HQ
       link: https://www.easypay-group.com/
     - name: API
-      description: The guts of the application.
       category: Azure
     - name: Support site
       link: https://support.easypay-group.com
@@ -266,7 +265,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  disableDarkMode: false
+  disableDarkMode: true
 
   # Should we show the logo or the title
   # of the status page?
