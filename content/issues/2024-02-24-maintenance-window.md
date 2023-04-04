@@ -1,9 +1,9 @@
 ---
 title: Maintenance Announcement 
-date: 2024-02-24 10:35:00 
+date: 2023-04-15 06:00:00 
 informational: true
 pin: true 
 section: issue
 ---
 
-We will shut down our network at midnight UTC on Feb 24. This does not affect the current status.
+On April 15, we will conduct our bi-annual high-availability testing. Minor connectivity issues may occur during failover tests.
