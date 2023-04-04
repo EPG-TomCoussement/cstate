@@ -6,4 +6,5 @@ pin: true
 section: issue
 ---
 
-On April 15, we will conduct our bi-annual high-availability testing. Minor connectivity issues may occur during failover tests.
+On April 15, we will conduct our bi-annual high-availability testing. 
+Minor connectivity issues may occur during failover tests.
