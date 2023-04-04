@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: EASYPAY Status
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -143,11 +143,11 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
+    - name: HQ
       description: The main servers are located here.
-      closed: true
-    - name: Empty Category
-    - name: Uncategorized
+      closed: false
+    - name: Azure
+    - name: Cloud
       untitled: true
 
   # These are your systems. Change them to
@@ -158,20 +158,17 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
+    - name: Network
+      category: HQ
     - name: Website
-      description: The web frontend for the application.
-      category: Uncategorized
-      link: https://example.com/
+      category: HQ
+      link: https://www.easypay-group.com/
     - name: API
       description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Uncategorized
+      category: Azure
+    - name: Support site
+      link: https://support.easypay-group.com
+      category: Cloud
 
   # What date format to use?
   #
