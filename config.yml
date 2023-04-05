@@ -143,7 +143,7 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: EASYPAY Datacenter
+    - name: EASYPAY - Datacenter
       closed: false
     - name: Cloud - Azure
       closed: false
