@@ -159,9 +159,9 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Network
-      category: EASYPAY Datacenter
+      category: EASYPAY - Datacenter
     - name: Website
-      category: EASYPAY Datacenter
+      category: EASYPAY - Datacenter
       link: https://www.easypay-group.com/
     - name: API
       category: Cloud - Azure
