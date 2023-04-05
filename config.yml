@@ -143,11 +143,11 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: HQ
+    - name: EASYPAY Datacenter
       closed: false
-    - name: Azure
+    - name: Cloud - Azure
       closed: false
-    - name: Cloud
+    - name: Cloud - Other
       closed: false
 
   # These are your systems. Change them to
@@ -159,15 +159,15 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Network
-      category: HQ
+      category: EASYPAY Datacenter
     - name: Website
-      category: HQ
+      category: EASYPAY Datacenter
       link: https://www.easypay-group.com/
     - name: API
-      category: Azure
+      category: Cloud - Azure
     - name: Support site
       link: https://support.easypay-group.com
-      category: Cloud
+      category: Cloud - Other
 
   # What date format to use?
   #
