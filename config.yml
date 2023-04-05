@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://epg-status-test.netlify.app/
+baseURL: https://status.easypay-group-ict.com
 
 # For features like Last modified, you
 # need to use a Git repository. If you
