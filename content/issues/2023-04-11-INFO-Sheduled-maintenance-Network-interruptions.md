@@ -1,5 +1,5 @@
 ---
-title: Maintenance Announcement 20230411 @22:00
+title: Maintenance Announcement 20230411
 date: 2023-04-11 22:00:00 
 informational: true
 pin: true 
