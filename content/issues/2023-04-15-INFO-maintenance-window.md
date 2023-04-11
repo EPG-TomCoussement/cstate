@@ -8,5 +8,5 @@ affected:
   - HQ
 ---
 
-On April 15, we will conduct our bi-annual high-availability testing. 
+On April 15 @ 06:00 CEST, we will conduct our bi-annual high-availability testing. 
 Minor connectivity issues may occur during failover tests.
