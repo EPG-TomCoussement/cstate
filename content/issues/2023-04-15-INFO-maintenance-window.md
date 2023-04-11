@@ -4,6 +4,8 @@ date: 2023-04-15 06:00:00
 informational: true
 pin: true 
 section: issue
+affected:
+  - HQ
 ---
 
 On April 15, we will conduct our bi-annual high-availability testing. 
