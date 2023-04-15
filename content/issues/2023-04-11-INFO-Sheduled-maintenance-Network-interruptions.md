@@ -2,7 +2,7 @@
 title: Maintenance Announcement 20230412
 date: 2023-04-12 21:00:00 
 informational: true
-pin: true 
+pin: false 
 section: issue
 affected:
   - Cloud - Azure
