@@ -2,7 +2,7 @@
 title: Maintenance Announcement 20230415
 date: 2023-04-15 06:00:00 
 informational: true
-pin: true 
+pin: false
 section: issue
 affected:
   - HQ
